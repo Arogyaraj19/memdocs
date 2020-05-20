@@ -47,7 +47,7 @@ To extend the schema for Configuration Manager:
 
 2.  Verify that the schema extension was successful by reviewing extadsch.log in the root of the system drive.  
 
-#### Option B: Use the LDIF file  
+#### Option B: Use the LDF file  
 
 1.  Edit the **ConfigMgr_ad_schema.ldf** file to define the Active Directory root domain that you want to extend:  
 
